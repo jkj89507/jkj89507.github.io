@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #919682;
+}
+
+@media (prefers-color-scheme: dark) {
+    html {
+      filter: invert(0) !important;
+      background-color: #fff !important;
+      color: #000 !important;
+    }
+}
