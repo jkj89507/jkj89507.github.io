@@ -1,16 +1,41 @@
 {
   "files": {
-    "main.css": "/static/css/main.c85b0921.css",
-    "main.js": "/static/js/main.f9cf3e37.js",
+    "main.css": "/static/css/main.8361f6e6.css",
+    "main.js": "/static/js/main.b9361c5b.js",
     "static/media/flowers.png": "/static/media/flowers.3a9684dd909132d9f0a8.png",
     "static/media/GreatVibes.ttf": "/static/media/GreatVibes.f51f1a4f2cd0c9611249.ttf",
+    "static/media/wedding-cake-1.png": "/static/media/wedding-cake-1.4139b39665c718f31fe2.png",
+    "static/media/wedding-cake-2.png": "/static/media/wedding-cake-2.bdff8cf9586421a952f8.png",
+    "static/media/wedding-cake-3.png": "/static/media/wedding-cake-3.507807002463f734f1f5.png",
+    "static/media/wedding-cake-4.png": "/static/media/wedding-cake-4.e3d31237fe4411606a4b.png",
+    "static/media/wedding-cake-5.png": "/static/media/wedding-cake-5.3b358c355e97a2e8cdfc.png",
+    "static/media/wedding-cars-1.png": "/static/media/wedding-cars-1.62f533e5e0d1bd5b9623.png",
+    "static/media/wedding-cars-2.png": "/static/media/wedding-cars-2.3901573728a3b09e298c.png",
+    "static/media/wedding-cars-3.png": "/static/media/wedding-cars-3.77ef27ff6aeb232a61fd.png",
+    "static/media/wedding-cars-4.png": "/static/media/wedding-cars-4.1400153bce650cb6043e.png",
+    "static/media/wedding-cars-5.png": "/static/media/wedding-cars-5.28022a5e0bee5b4ec7a1.png",
+    "static/media/wedding-coctail-1.png": "/static/media/wedding-coctail-1.6e0c7eae0b4f7ea08385.png",
+    "static/media/wedding-coctail-2.png": "/static/media/wedding-coctail-2.73b60570c12a9131e997.png",
+    "static/media/wedding-coctail-3.png": "/static/media/wedding-coctail-3.2dd09204f9086937fa79.png",
+    "static/media/wedding-coctail-4.png": "/static/media/wedding-coctail-4.4f80e427b1ac8452337e.png",
+    "static/media/wedding-coctail-5.png": "/static/media/wedding-coctail-5.73ed977e4d57818d7629.png",
+    "static/media/wedding-rings-1.png": "/static/media/wedding-rings-1.f280ef52ce4a91507aeb.png",
+    "static/media/wedding-rings-2.png": "/static/media/wedding-rings-2.5d53c0b58a71cd642761.png",
+    "static/media/wedding-rings-3.png": "/static/media/wedding-rings-3.ee665594270156a1d234.png",
+    "static/media/wedding-rings-4.png": "/static/media/wedding-rings-4.395f9f7574eaa934ccf9.png",
+    "static/media/wedding-rings-5.png": "/static/media/wedding-rings-5.882aa6fec4c339fc40e4.png",
+    "static/media/wedding-church-2.png": "/static/media/wedding-church-2.772841596734a287656a.png",
+    "static/media/wedding-church-3.png": "/static/media/wedding-church-3.ce4322574f5aab26d50a.png",
+    "static/media/wedding-church-4.png": "/static/media/wedding-church-4.a3012aae76c0882e6b1b.png",
+    "static/media/wedding-church-5.png": "/static/media/wedding-church-5.46fd6a5b686d86fa2b35.png",
+    "static/media/wedding-church-1.png": "/static/media/wedding-church-1.2d640f81d87d96422dfc.png",
     "static/media/JetBrainsMono.ttf": "/static/media/JetBrainsMono.124e75f20b273c531176.ttf",
     "index.html": "/index.html",
-    "main.c85b0921.css.map": "/static/css/main.c85b0921.css.map",
-    "main.f9cf3e37.js.map": "/static/js/main.f9cf3e37.js.map"
+    "main.8361f6e6.css.map": "/static/css/main.8361f6e6.css.map",
+    "main.b9361c5b.js.map": "/static/js/main.b9361c5b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c85b0921.css",
-    "static/js/main.f9cf3e37.js"
+    "static/css/main.8361f6e6.css",
+    "static/js/main.b9361c5b.js"
   ]
 }
